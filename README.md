@@ -1,22 +1,22 @@
-# 欢迎来到张思宇的个人主页！
+# Welcome to Siyu Zhang's Personal Homepage
 
-## 自我介绍
-大家好，我是张思宇。目前我正在申请博士学位，专注于连接自动驾驶汽车的研究领域。在我的硕士研究中，我主要研究车载毫米波雷达技术。我对信号处理和生物声学的交叉领域有着浓厚的兴趣，特别是在多目标分离、测角和定位这些方面。
+## Introduction
+Hello, I am Siyu Zhang, currently applying for a PhD position with a focus on signal processing. During my master's studies, I specialized in array signal processing. My academic interests span across signal processing and bioacoustics, with a particular focus on multi-target separation, angle-of-arrival estimation, and localization.
 
-## 研究兴趣
-- **信号处理**：利用先进的信号处理技术分析和解释数据。
-- **生物声学**：研究生物体发出的声波及其与环境的互动。
-- **车载雷达系统**：开发和优化用于自动驾驶汽车的雷达系统。
+## Research Interests
+- **Signal Processing**: Advanced techniques for data analysis and interpretation.
+- **Bioacoustics**: Studying biological sound waves and their interaction with environments.
+- **Vehicular Radar Systems**: Development and optimization of radar technologies for autonomous driving.
 
-## 已发表的文章
-1. **会议论文**：
-   - 张思宇, et al. "利用频域波束形成和双阵列定位方法分离和定位多个蝙蝠信号." 已提交审查。
-2. **期刊论文**：
-   - 张思宇, et al. "蝙蝠调整飞行速度以创造个人听觉通道." 已提交审查。
+## Publications
+1. **Conference Paper**:
+   - Separation and Localization of Multiple Bat Signals Using Frequency-Domain Beamforming and Dual-Array Localization Method. ICSPS 2024, accept.
+   
+2. **Journal Article**:
+   - Bats adjust flight speed to create personal listening channels. Science, Under review.
 
-## 联系方式
-- **电子邮件**：[siyuzhang@example.com](mailto:siyuzhang@example.com)
-- **LinkedIn**：[linkedin.com/in/siyuzhang](https://www.linkedin.com/in/siyuzhang)
+## Contact Information
+- **Email**: [siyuzhang@stu.xidian.edu.cn](mailto:siyuzhang@stu.xidian.edu.cn)
 
 ---
-感谢您访问我的主页，希望能与您分享更多研究成果和经验交流！
+Thank you for visiting my homepage. I look forward to sharing more research and insights with you!
